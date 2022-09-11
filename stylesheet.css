@@ -2,14 +2,14 @@ body{
     margin: 0;
 }
 
+/*first*/
+
 header{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #3498db;
+    background-color: black;
     display: flex;
-    margin: auto;
-    padding: 0px;
+    padding: 5px 20px;
     padding-bottom: 0px;
-    border-bottom: 1px solid #2980b9;
 }
 
 .pages{
@@ -17,7 +17,7 @@ header{
     gap: 28px;
     list-style: none;
     padding: 0px 30px;
-    margin-right: 0;
+    margin-right: 150px;
     margin-left: auto;
     align-items: center;
 }
@@ -29,14 +29,55 @@ header{
     color: white;
     padding: 8px;
     text-size-adjust: bold;
-    border-bottom: 3px solid black;
+    border-bottom: 3px solid #54a0ff;
 }
 
 .logo{
     display: flex;
     align-items: center;
-    width: 100px;
-    border-radius: 50%;
-    padding: 5px 30px;
-    margin: 0px;
+    width: 200px;
+    padding: 30px 30px;
+    margin-left: 60px;
 }
+
+/*first*/
+
+.first{
+    background-color: #1c7ed6;
+    display: flex;
+    color: white;
+    padding: 100px 100px 200px 100px;
+}
+
+.firstheader{
+    font-size: 100px;
+}
+
+.firstparagraph{
+    font-size: 30px;
+}
+
+.firstcars{
+    width: 900px;
+    filter: blur(1px);
+    padding: 0px;
+    margin-left: 300px;
+    margin-right: 100px;
+    position: absolute;
+    right: 1%;
+
+}
+
+.secondcars{
+    width: 700px;
+    padding: 0px;
+    margin-left: 300px;
+    margin-right: 100px;
+    position: relative;
+    top: 10%;
+    border: 1px solid black;
+    transform: scaleX(-1);
+}
+
+
+/*second*/

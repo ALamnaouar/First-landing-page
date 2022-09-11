@@ -13,6 +13,9 @@ Project:
 
 
 
-
-
+pictures used:
+    *background.jpg:
+        Black and white photo of a row of Honda Accords at a dealership in Fairfax Virginia with emphasis on the headlights.
+        credit: Obi - @pixel6propix - https://unsplash.com/@obionyeador
+        Instagram: https://www.instagram.com/Pixel6propix/
 
