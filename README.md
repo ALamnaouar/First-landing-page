@@ -34,3 +34,17 @@ pictures used:
 
     *Monkey D Luffy _ gnrsamir.jpeg:
         https://pin.it/2BfnWc9
+
+    *pexels-neil-kelly-712618.jpg:
+        Photo by neil kelly: https://www.pexels.com/photo/blue-sedan-712618/
+    
+    *ford-gd13118e68_1920.jpg:
+        Image by <a href="https://pixabay.com/users/tama66-1032521/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2705402">Peter H</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2705402">Pixabay</a>
+
+    *yuvraj-singh-0L2Y19nsYmY-unsplash.jpg:
+        Photo by <a href="https://unsplash.com/@yxvi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yuvraj Singh</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+    *richard-guillory-ZUlB8tBSRgM-unsplash.jpg:
+        Photo by <a href="https://unsplash.com/es/@datonestudio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Richard Guillory</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+

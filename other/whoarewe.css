@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/******************header*******************/
+
+header{
+    background-color: black;
+    display: flex;
+    padding: 5px 20px;
+    padding-bottom: 0px;
+}
+
+.pages{
+    display: flex;
+    gap: 28px;
+    list-style: none;
+    padding: 0px 30px;
+    margin-right: 150px;
+    margin-left: auto;
+    align-items: center;
+}
+
+
+.pages a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #c8d6e5;
+    padding: 0px 8px 8px 8px;
+    text-size-adjust: bold;
+    border-bottom: 3px solid #54a0ff;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    width: 200px;
+    padding: 30px 30px;
+    margin-left: 60px;
+}
+
+
+/******************countainer*******************/
+
+.countainer{
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #c8d6e5;
+    margin: 0;
+    padding: 100px;
+}
+
+
+.text{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 100px;
+}
+
+.vehicle{
+    width: 300px;
+    border: 5px solid #54a0ff;
+}
+
+.vehicles{
+    margin-bottom: 50px;
+    display: flex;
+    gap: 50px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.pic{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.comment{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 900;
+    color: #2e86de;
+}
+
+.button{
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 50px;
+    background-color: #2e86de;
+    color: #c8d6e5;
+    padding: 20px 30px;
+    margin: 20px;
+    border: 5px solid #54a0ff;
+}
+
+/******************footer*******************/
+
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: #c8d6e5;
+    font-size: 20px;
+    padding: 20px;
+    border-top: 5px solid #576574;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.readme{
+    text-decoration: none;
+    color: white;
+    padding: 0 5px;
+}

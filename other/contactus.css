@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/******************header*******************/
+
+header{
+    background-color: black;
+    display: flex;
+    padding: 5px 20px;
+    padding-bottom: 0px;
+}
+
+.pages{
+    display: flex;
+    gap: 28px;
+    list-style: none;
+    padding: 0px 30px;
+    margin-right: 150px;
+    margin-left: auto;
+    align-items: center;
+}
+
+
+.pages a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #c8d6e5;
+    padding: 0px 8px 8px 8px;
+    text-size-adjust: bold;
+    border-bottom: 3px solid #54a0ff;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    width: 200px;
+    padding: 30px 30px;
+    margin-left: 60px;
+}
+
+
+/******************countainer******************/
+
+
+.countainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 200px;
+    background-color: #1c7ed6;
+}
+
+.text{
+    color: #c8d6e5;
+    margin: 50px;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.meme{
+    border: 5px solid #c8d6e5;
+}
+
+.garii{
+    width: 600px;
+}
+
+.gari{
+    background-color: #c8d6e5;
+    border: 5px solid #54a0ff;
+    padding: 30px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #1c7ed6;
+    font-weight: 900;
+}
+
+
+/******************footer*******************/
+
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: #c8d6e5;
+    font-size: 20px;
+    padding: 20px;
+    border-top: 5px solid #576574;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.readme{
+    text-decoration: none;
+    color: white;
+    padding: 0 5px;
+}
